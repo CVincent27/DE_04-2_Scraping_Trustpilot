@@ -24,6 +24,7 @@ def parse_companies():
     for companie in companies:
         name = companie.find('p').text
         website = companie.find('p', class_='typography_body-m__k2UI7 typography_appearance-subtle__PYOVM styles_websiteUrlDisplayed__lSw1A').text
-        print(website)
+        rating = companie.find('p', class_='typography_body-m__k2UI7 typography_appearance-subtle__PYOVM styles_ratingText__A2dmB').text
+        print(name, website, rating)
 
 parse_companies()
