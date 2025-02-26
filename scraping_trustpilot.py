@@ -29,6 +29,7 @@ def parse_companies():
         address = companie.find('div', class_='styles_metadataRow__WKWNi')
         if not address:
             address = "Pas d'adresse"
-        print(address)
+        tag = companie.find('span', class_='typography_body-s__IqDta typography_appearance-default__t8iAq').text
+        print(name, website, tag)
 
 parse_companies()
