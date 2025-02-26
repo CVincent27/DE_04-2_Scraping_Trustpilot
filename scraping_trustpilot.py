@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import re
 
 # Récup des 20 premières pages du site
 def get_all_pages():
@@ -25,6 +26,9 @@ def parse_companies():
         name = companie.find('p').text
         website = companie.find('p', class_='typography_body-m__k2UI7 typography_appearance-subtle__PYOVM styles_websiteUrlDisplayed__lSw1A').text
         rating = companie.find('p', class_='typography_body-m__k2UI7 typography_appearance-subtle__PYOVM styles_ratingText__A2dmB').text
-        print(name, website, rating)
+        address = companie.find('div', class_='styles_metadataRow__WKWNi')
+        if not address:
+            address = "Pas d'adresse"
+        print(address)
 
 parse_companies()
