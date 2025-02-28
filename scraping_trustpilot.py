@@ -32,12 +32,16 @@ def parse_companies():
         if not address:
             address = "Pas d'adresse"
         tag = companie.find('span', class_='typography_body-s__IqDta typography_appearance-default__t8iAq').text
-        # print(name, website, clean_nbr_rating, address, tag)
+        
+        print(clean_nbr_rating)
 
-        path = r"C:\Users\coque\OneDrive\Bureau\dev\DE_05_Scraping_Trustpilot\list_companies.txt"
-        with open (path, "a") as f:
-            f.write(f"{name}\n")
-            f.write(f"{website}\n\n")
+        # path = r"C:\Users\coque\OneDrive\Bureau\dev\DE_05_Scraping_Trustpilot\list_companies.txt"
+        # with open(path, "a") as f:
+        #     f.write(f"{name}\n")
+        #     f.write(f"{website}\n")
+        #     f.write(f"{address}\n")
+        #     f.write(f"{tag}\n")
+        #     f.write(f"{rating}\n\n")
 
-
+            
 parse_companies()
