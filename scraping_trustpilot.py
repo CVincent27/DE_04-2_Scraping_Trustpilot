@@ -28,7 +28,10 @@ def parse_companies(url):
         rating = companie.find('span', class_='typography_body-m__k2UI7 typography_appearance-subtle__PYOVM styles_trustScore__iURkS').text
         nbr_rating = companie.find('p', class_='typography_body-m__k2UI7 typography_appearance-subtle__PYOVM styles_ratingText__A2dmB').text
         clean_nbr_rating = re.sub(r"\|", " - ", nbr_rating)
-        address = companie.find('div', class_='styles_metadataRow__WKWNi').text
+        try:
+            address = companie.find('div', class_='styles_metadataRow__WKWNi').text
+        except AttributeError as e:
+            address = "Adresse inconnue"
         if not address:
             address = "Pas d'adresse"
         tag = companie.find('span', class_='typography_body-s__IqDta typography_appearance-default__t8iAq').text

@@ -241,7 +241,7 @@ TrustScore 4,6
 Spliiit
 spliiit.com
 Rosières-près-Troyes, France
-Service de paiement
+Service de transfert d'argent
 TrustScore 4,5
 
 Lucca
@@ -325,7 +325,7 @@ TrustScore 4,4
 Sharesub - Partage d'abonnement
 www.sharesub.com
 Saint Cloud, France
-Service de paiement
+Plateforme de collaboration en ligne
 TrustScore 4,4
 
 Jestocke
@@ -820,15 +820,15 @@ Bordeaux, France
 Service d'hébergement de sites web
 TrustScore 4,8
 
-Maieuticapp
-maieuticapp.com
-Nantes, France
-Entreprise de logiciels
-TrustScore 4,8
-
 ImmoScan
 www.immo-scan.fr
 ARLES, France
+Entreprise de logiciels
+TrustScore 4,8
+
+Maieuticapp
+maieuticapp.com
+Nantes, France
 Entreprise de logiciels
 TrustScore 4,8
 
@@ -964,16 +964,16 @@ Castres, France
 Service de cloud computing
 TrustScore 4,7
 
-Batirama
-batirama.com
-Saint-Thibéry, France
-Fournisseur de logiciels
-TrustScore 4,7
-
 business-plan-excel.fr
 business-plan-excel.fr
 Villefranche-de-Rouergue, France
 Boutique de logiciels
+TrustScore 4,7
+
+Batirama
+batirama.com
+Saint-Thibéry, France
+Fournisseur de logiciels
 TrustScore 4,7
 
 ciboulette.net
@@ -994,14 +994,14 @@ Bellevigny, France
 Entreprise d'automatisme
 TrustScore 4,7
 
-Kanoon
-kanoon.fr
+FaxBox
+www.faxbox.com
 Pas d'adresse
 Entreprise de logiciels
 TrustScore 4,7
 
-FaxBox
-www.faxbox.com
+Kanoon
+kanoon.fr
 Pas d'adresse
 Entreprise de logiciels
 TrustScore 4,7
@@ -1060,16 +1060,16 @@ LYON, France
 Service de recrutement
 TrustScore 4,7
 
-Myproxies
-myproxies.fr
-Sospel, France
-Service VPN
-TrustScore 4,7
-
 SQUIRREL
 www.squirrel.fr
 La Possession, France
 Entreprise de logiciels
+TrustScore 4,7
+
+Myproxies
+myproxies.fr
+Sospel, France
+Service VPN
 TrustScore 4,7
 
 Greenway
@@ -1090,16 +1090,16 @@ Pas d'adresse
 Entreprise de logiciels
 TrustScore 4,7
 
-Lekcie
-lekcie.com
-Pas d'adresse
-Plateforme de collaboration en ligne
-TrustScore 4,7
-
 IK-Generator
 ik-generator.com
 Pas d'adresse
 Entreprise de logiciels
+TrustScore 4,7
+
+Lekcie
+lekcie.com
+Pas d'adresse
+Plateforme de collaboration en ligne
 TrustScore 4,7
 
 Feather Ai
@@ -1282,16 +1282,16 @@ SAINT-BONNET-DE-MURE, France
 Service d'hébergement de sites web
 TrustScore 4,6
 
-UmboFrance
-umbo-france.eu
-Nouans, France
-Serveur de traitement
-TrustScore 4,6
-
 Sinao - Le logiciel de comptabilité le plus simple
 www.sinao.fr
 Grenoble, France
 Entreprise de logiciels
+TrustScore 4,6
+
+UmboFrance
+umbo-france.eu
+Nouans, France
+Serveur de traitement
 TrustScore 4,6
 
 Make me Droid
@@ -1312,22 +1312,16 @@ Toulouse, France
 Entreprise de logiciels
 TrustScore 4,6
 
-Flowsign
-flowsignagency.com
-Villefranche-sur-saône, France
-Graphiste
+PrimSchool
+primschool.com
+Précy-sur-Marne, France
+École maternelle
 TrustScore 4,6
 
 Flowsign
 flowsignagency.com
 Villefranche-sur-saône, France
 Graphiste
-TrustScore 4,6
-
-Dastra
-dastra.eu
-Saint-Mandé, France
-Entreprise de logiciels
 TrustScore 4,6
 
 PH3N1X
@@ -1336,22 +1330,16 @@ Dinard, France
 Fournisseur de logiciels
 TrustScore 4,6
 
+Dastra
+dastra.eu
+Saint-Mandé, France
+Entreprise de logiciels
+TrustScore 4,6
+
 Sublimeo
 sublimeo.com
 Toulouse, France
 Graphiste
-TrustScore 4,6
-
-Nicoka
-nicoka.com
-Paris, France
-Consultant en ressources humaines
-TrustScore 4,6
-
-osteopathes.pro
-osteopathes.pro
-Paris, France
-Services aux entreprises
 TrustScore 4,6
 
 Hydra-Shield
@@ -1360,10 +1348,22 @@ Val d'oight, France
 Service de sécurité informatique
 TrustScore 4,6
 
-m19
-m19.com
-Pas d'adresse
-Service de marketing Internet
+osteopathes.pro
+osteopathes.pro
+Paris, France
+Services aux entreprises
+TrustScore 4,6
+
+Nicoka
+nicoka.com
+Paris, France
+Consultant en ressources humaines
+TrustScore 4,6
+
+Poool - The Membership & Subscription Suite
+poool.tech
+Paris, France
+Fournisseur de logiciels
 TrustScore 4,6
 
 VISIO CONSEILS PRO
@@ -1372,10 +1372,10 @@ PLAN DE CUQUES, France
 Cabinet d'expertise comptable
 TrustScore 4,6
 
-Poool - The Membership & Subscription Suite
-poool.tech
-Paris, France
-Fournisseur de logiciels
+m19
+m19.com
+Pas d'adresse
+Service de marketing Internet
 TrustScore 4,6
 
 LGE WEB - Lucas GOSGNACH EIRL
@@ -1402,16 +1402,16 @@ Paris, France
 Entreprise de logiciels
 TrustScore 4,6
 
-HOM STUDIO
-homstudio.fr
-Pas d'adresse
-Studio Pilates
-TrustScore 4,6
-
 Riviosa
 riviosa.com
 Pas d'adresse
 Entreprise de logiciels
+TrustScore 4,6
+
+HOM STUDIO
+homstudio.fr
+Pas d'adresse
+Studio Pilates
 TrustScore 4,6
 
 Noö Family
@@ -1435,7 +1435,7 @@ TrustScore 4,6
 LWS
 www.lws.fr
 PARIS, France
-Services aux entreprises
+Service d'hébergement de sites web
 TrustScore 4,5
 
 waalaxy.com
@@ -1642,22 +1642,22 @@ Paris, France
 Service de commande de repas en ligne
 TrustScore 4,5
 
-FiveHost
-five-host.fr
-Pas d'adresse
-Service d'hébergement de sites web
-TrustScore 4,5
-
 BeeTrip
 beetrip.pro
 Lyon, France
 Fournisseur de CRM
 TrustScore 4,5
 
-PandiHeberge
-pandiheberge.com
-Aix En Provence, France
-Fournisseur d'accès Internet
+FiveHost
+five-host.fr
+Pas d'adresse
+Service d'hébergement de sites web
+TrustScore 4,5
+
+Rahona Hosting
+rahona-hosting.com
+Montpellier, France
+Service VPN
 TrustScore 4,5
 
 Academyxonline
@@ -1666,10 +1666,10 @@ Pas d'adresse
 Entreprise de logiciels
 TrustScore 4,5
 
-Rahona Hosting
-rahona-hosting.com
-Montpellier, France
-Service VPN
+PandiHeberge
+pandiheberge.com
+Aix En Provence, France
+Fournisseur d'accès Internet
 TrustScore 4,5
 
 Tomco Corporation
@@ -1708,16 +1708,16 @@ Lanta, France
 Concepteur de sites web
 TrustScore 4,5
 
-MONOPOL GROUP
-monopolgroup.com
-Pas d'adresse
-Société d'investissement
-TrustScore 4,5
-
 Datwork
 datwork.fr
 Bordeaux, France
 Services aux entreprises
+TrustScore 4,5
+
+MONOPOL GROUP
+monopolgroup.com
+Pas d'adresse
+Société d'investissement
 TrustScore 4,5
 
 Runbot
@@ -1900,16 +1900,16 @@ Suresnes, France
 Plateforme de collaboration en ligne
 TrustScore 4,4
 
-Ekklo
-ekklo.com
-Paris, France
-Fournisseur de logiciels
-TrustScore 4,4
-
 France Telephone
 france-telephone.com
 Fontenay sous Bois, France
 Opérateur de réseau mobile
+TrustScore 4,4
+
+Ekklo
+ekklo.com
+Paris, France
+Fournisseur de logiciels
 TrustScore 4,4
 
 MADeNight
@@ -2044,10 +2044,10 @@ Lyon, France
 Espace Internet
 TrustScore 4,4
 
-Keeple
-keeple.com
-Montagnat, France
-Entreprise de logiciels
+allisone.ai
+allisone.ai
+Neuilly sur Seine , France
+Fabricant de technologies médicales
 TrustScore 4,4
 
 G Dev
@@ -2056,10 +2056,10 @@ Pas d'adresse
 Service d'hébergement de sites web
 TrustScore 4,4
 
-allisone.ai
-allisone.ai
-Neuilly sur Seine , France
-Fabricant de technologies médicales
+Keeple
+keeple.com
+Montagnat, France
+Entreprise de logiciels
 TrustScore 4,4
 
 cozybills
@@ -2080,15 +2080,15 @@ Paris, France
 Société de gestion immobilière
 TrustScore 4,4
 
-Notice
-notice.studio
-Paris, France
-Entreprise de logiciels
-TrustScore 4,4
-
 CozyUp
 cozyup.fr
 Pas d'adresse
+Entreprise de logiciels
+TrustScore 4,4
+
+Notice
+notice.studio
+Paris, France
 Entreprise de logiciels
 TrustScore 4,4
 
@@ -2308,16 +2308,16 @@ Pas d'adresse
 Entreprise de logiciels
 TrustScore 4,3
 
-SportEasy
-sporteasy.net
-Pas d'adresse
-Entreprise de logiciels
-TrustScore 4,3
-
 Life Story AI
 life-story.ai
 Courbevoie, France
 Boutique de cadeaux
+TrustScore 4,3
+
+SportEasy
+sporteasy.net
+Pas d'adresse
+Entreprise de logiciels
 TrustScore 4,3
 
 creer-application.com
@@ -2356,16 +2356,16 @@ lille, France
 Service d'hébergement de sites web
 TrustScore 4,3
 
-ALTOSPAM: logiciel antispam et antivirus français
-www.altospam.com
-Bordeaux, France
-Fournisseur de logiciels
-TrustScore 4,3
-
 LC.CX
 lc.cx
 Pas d'adresse
 Service de marketing affilié
+TrustScore 4,3
+
+ALTOSPAM: logiciel antispam et antivirus français
+www.altospam.com
+Bordeaux, France
+Fournisseur de logiciels
 TrustScore 4,3
 
 Freshmarkom
@@ -2374,16 +2374,10 @@ Montreuil, France
 Designer web
 TrustScore 4,3
 
-Hosturo
-hosturo.com
-Pas d'adresse
-Service d'hébergement de sites web
-TrustScore 4,3
-
-Supplyizi
-supplyizi.com
-Paris, France
-Plateforme de collaboration en ligne
+mikiz.eu
+mikiz.eu
+Palaiseau, Paris, France
+Service de reproduction de clés
 TrustScore 4,3
 
 Casapulse
@@ -2392,9 +2386,15 @@ Paris, France
 Évaluateur immobilier
 TrustScore 4,3
 
-Bargain
-wearebargain.com
-Paris, France
-Entreprise de logiciels
+Karlia
+karlia.co
+TOULOUSE, France
+Fournisseur de logiciels
+TrustScore 4,3
+
+Hosturo
+hosturo.com
+Pas d'adresse
+Service d'hébergement de sites web
 TrustScore 4,3
 
