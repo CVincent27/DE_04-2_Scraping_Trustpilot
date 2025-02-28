@@ -16,8 +16,8 @@ def get_all_pages():
 # print(r.status_code)
 
 # Récup des infos des entreprises
-def parse_companies():
-    r = requests.get("https://fr.trustpilot.com/categories/electronics_technology?claimed=true&page=1&subcategories=internet_software")
+def parse_companies(url):
+    r = requests.get(url)
     soup = BeautifulSoup(r.content, "html.parser")
 
     companies = soup.find_all('div', class_='paper_paper__EGeEb paper_outline__bqVmn card_card__yyGgu card_noPadding__OOiac styles_wrapper__Jg8fe')
@@ -33,15 +33,20 @@ def parse_companies():
             address = "Pas d'adresse"
         tag = companie.find('span', class_='typography_body-s__IqDta typography_appearance-default__t8iAq').text
         
-        print(clean_nbr_rating)
+        # print(clean_nbr_rating)
 
-        # path = r"C:\Users\coque\OneDrive\Bureau\dev\DE_05_Scraping_Trustpilot\list_companies.txt"
-        # with open(path, "a") as f:
-        #     f.write(f"{name}\n")
-        #     f.write(f"{website}\n")
-        #     f.write(f"{address}\n")
-        #     f.write(f"{tag}\n")
-        #     f.write(f"{rating}\n\n")
+        path = r"C:\Users\coque\OneDrive\Bureau\dev\DE_05_Scraping_Trustpilot\list_companies.txt"
+        with open(path, "a") as f:
+            f.write(f"{name}\n")
+            f.write(f"{website}\n")
+            f.write(f"{address}\n")
+            f.write(f"{tag}\n")
+            f.write(f"{rating}\n\n")
 
-            
-parse_companies()
+def parse_all_companies():
+    pages = get_all_pages()
+    for page in pages:
+        parse_companies(url=page)
+        print(f"scrapping en cours de {page}")
+
+parse_all_companies()
