@@ -1,7 +1,7 @@
 K Software Informatique
 ksoftware.fr
 Châtellerault, France
-Consultant en informatique
+Fournisseur de logiciels
 TrustScore 4,9
 
 Fast Software
@@ -31,7 +31,7 @@ TrustScore 4,8
 o2switch
 o2switch.fr
 Pas d'adresse
-Service de stockage et de disques durs
+Services aux entreprises
 TrustScore 4,8
 
 WP Rocket
@@ -85,7 +85,7 @@ TrustScore 4,8
 EasyHoster
 easyhoster.com
 Pas d'adresse
-Service d'hébergement de sites web
+Assistance et services informatiques
 TrustScore 4,8
 
 People Vox
@@ -115,7 +115,7 @@ TrustScore 4,8
 IONOS | ionos.fr
 ionos.fr
 Pas d'adresse
-Service d'hébergement de sites web
+Fournisseur de service de courriel
 TrustScore 4,7
 
 Indy
@@ -166,6 +166,12 @@ Serris, France
 Service de sécurité informatique
 TrustScore 4,6
 
+BailFacile
+bailfacile.fr
+Paris, France
+Agence de location immobilière
+TrustScore 4,6
+
 Nom Domaine
 nom-domaine.fr
 Angers, France
@@ -193,7 +199,7 @@ TrustScore 4,6
 Pennylane
 pennylane.com
 Paris, France
-Entreprise de logiciels de comptabilité
+Service de finances alternatives
 TrustScore 4,6
 
 Dastmark
@@ -229,7 +235,7 @@ TrustScore 4,6
 Flaash
 flaash.ai
 Pas d'adresse
-Entreprise de logiciels
+Consultant immobilier
 TrustScore 4,6
 
 Qotid
@@ -250,22 +256,16 @@ PARIS, France
 Entreprise de logiciels
 TrustScore 4,5
 
-BailFacile
-bailfacile.fr
-Paris, France
-Agence immobilière
-TrustScore 4,5
-
 RadioKing
 radioking.com
 United States, France
-Station de radio
+Entreprise de logiciels
 TrustScore 4,5
 
 PayFit France
 payfit.com
 Paris, France
-Service de comptabilité
+Entreprise de logiciels
 TrustScore 4,5
 
 Instant-Licence
@@ -277,18 +277,12 @@ TrustScore 4,5
 GoodBarber
 goodbarber.com
 Ajaccio, France
-Entreprise de logiciels
+Fournisseur de solution e-commerce
 TrustScore 4,5
 
 Skello
 www.skello.io
 Paris, France
-Entreprise de logiciels
-TrustScore 4,5
-
-Lmarket
-lmarket.fr
-Pas d'adresse
 Entreprise de logiciels
 TrustScore 4,5
 
@@ -307,7 +301,7 @@ TrustScore 4,5
 Recharge.fr
 recharge.fr
 Bois d'Arcy, France
-Magasin de musique
+Entreprise de télécommunications
 TrustScore 4,4
 
 maison.fr
@@ -325,7 +319,7 @@ TrustScore 4,4
 Sharesub - Partage d'abonnement
 www.sharesub.com
 Saint Cloud, France
-Plateforme de collaboration en ligne
+Service de paiement
 TrustScore 4,4
 
 Jestocke
@@ -337,6 +331,12 @@ TrustScore 4,4
 SEE & CANECO brought to you by ETAP
 www.ige-xao.com
 Colomiers, France
+Entreprise de logiciels
+TrustScore 4,4
+
+Lmarket
+lmarket.fr
+Pas d'adresse
 Entreprise de logiciels
 TrustScore 4,4
 
@@ -370,6 +370,12 @@ Pas d'adresse
 Service de recherche d'emploi
 TrustScore 4,2
 
+AcyMailing
+acymailing.com
+Lyon, France
+Fournisseur de service de courriel
+TrustScore 4,2
+
 Moni
 monisnap.com
 Paris, France
@@ -380,12 +386,6 @@ SimOptions
 www.simoptions.com
 Paris, France
 Entreprise de télécommunications
-TrustScore 4,1
-
-AcyMailing
-acymailing.com
-Lyon, France
-Fournisseur de service de courriel
 TrustScore 4,1
 
 EBP
@@ -412,17 +412,17 @@ Paris, France
 Entreprise de logiciels
 TrustScore 4,0
 
-Onoff
-onoff.app
-Paris, France
-Service internet et téléphone
-TrustScore 4,0
-
 Seedbox
 www.seedbox.fr
 PRINGY, France
 Service d'hébergement de sites web
 TrustScore 4,0
+
+Onoff
+onoff.app
+Paris, France
+Service internet et téléphone
+TrustScore 3,9
 
 Ikoula
 ikoula.com
@@ -442,16 +442,16 @@ Levallois-Perret, France
 Entreprise de logiciels
 TrustScore 3,8
 
-beCHARGE France
-becharge.fr
-Pas d'adresse
-Boutique de cadeaux
-TrustScore 3,8
-
 Mailjet
 mailjet.com
 Paris, France
 Fournisseur de service de courriel
+TrustScore 3,8
+
+beCHARGE France
+becharge.fr
+Pas d'adresse
+Boutique de cadeaux
 TrustScore 3,7
 
 propulsebyca.fr
@@ -493,7 +493,7 @@ TrustScore 3,3
 GoMoWorld
 gomoworld.com
 Pas d'adresse
-Fournisseur d'équipements de télécommunications
+Service internet et téléphone
 TrustScore 3,1
 
 Shadow
@@ -505,7 +505,7 @@ TrustScore 2,7
 Sosh
 sosh.fr
 Pas d'adresse
-Opérateur téléphonique
+Fournisseur d'accès Internet
 TrustScore 2,7
 
 Rue du Commerce
@@ -517,8 +517,8 @@ TrustScore 2,6
 Loisamsterdam
 loisamsterdam.com
 Pas d'adresse
-Entreprise de logiciels
-TrustScore 2,4
+Fournisseur de logiciels
+TrustScore 2,5
 
 TransferNow
 transfernow.net
@@ -532,15 +532,15 @@ Paris, France
 Entreprise de logiciels
 TrustScore 4,9
 
-Affinitweet
-affinitweet.com
-Marseille, France
-Entreprise de logiciels
-TrustScore 4,9
-
 Smash
 fromsmash.com
 Lyon, France
+Entreprise de logiciels
+TrustScore 4,9
+
+Affinitweet
+affinitweet.com
+Marseille, France
 Entreprise de logiciels
 TrustScore 4,9
 
@@ -649,7 +649,7 @@ TrustScore 4,9
 Planity
 www.planity.com
 Paris, France
-Coiffeur
+Institut de beauté
 TrustScore 4,8
 
 Docorga
@@ -661,13 +661,13 @@ TrustScore 4,8
 ProRealTime
 prorealtime.com
 Rueil-Malmaison, France
-Bourse
+Entreprise de logiciels
 TrustScore 4,8
 
 Nexus-Games
 nexus-games.fr
 Pas d'adresse
-Service de location de jeux vidéo
+Service d'hébergement de sites web
 TrustScore 4,8
 
 Leaves & Clouds
@@ -799,18 +799,12 @@ TrustScore 4,8
 Express Depannage PC
 express-depannage.fr
 ROESCHWOOG, France
-Service d'hébergement de sites web
+Magasin d'informatique
 TrustScore 4,8
 
 NiHost - Ni-Host.com
 ni-host.com
 Pas d'adresse
-Service d'hébergement de sites web
-TrustScore 4,8
-
-Shiftek Hosting
-shiftek.fr
-PENMARCH, France
 Service d'hébergement de sites web
 TrustScore 4,8
 
@@ -820,15 +814,21 @@ Bordeaux, France
 Service d'hébergement de sites web
 TrustScore 4,8
 
-ImmoScan
-www.immo-scan.fr
-ARLES, France
-Entreprise de logiciels
+Shiftek Hosting
+shiftek.fr
+PENMARCH, France
+Service d'hébergement de sites web
 TrustScore 4,8
 
 Maieuticapp
 maieuticapp.com
 Nantes, France
+Entreprise de logiciels
+TrustScore 4,8
+
+ImmoScan
+www.immo-scan.fr
+ARLES, France
 Entreprise de logiciels
 TrustScore 4,8
 
@@ -841,7 +841,7 @@ TrustScore 4,8
 Qalimo
 qalimo.fr
 Pas d'adresse
-Fournisseur de logiciels
+Agence de location immobilière
 TrustScore 4,8
 
 Nvhcloud
@@ -850,16 +850,16 @@ CLAVIERES, France
 Service de stockage en nuage (cloud storage)
 TrustScore 4,8
 
-Kreapro
-kreapro.fr
-Pas d'adresse
-Service de marketing Internet
-TrustScore 4,8
-
 N2PA
 n2pa.fr
 Thionville, France
 Espace Internet
+TrustScore 4,8
+
+Kreapro
+kreapro.fr
+Pas d'adresse
+Service de marketing Internet
 TrustScore 4,8
 
 Rvhhost
@@ -937,7 +937,7 @@ TrustScore 4,7
 ND Protect
 ndprotect.com
 Cool-sur-Marne, France
-Fournisseur de logiciels
+Service d'hébergement de sites web
 TrustScore 4,7
 
 Angage
@@ -955,7 +955,7 @@ TrustScore 4,7
 Cloudimage
 cloudimage.io
 Lyon, France
-Entreprise de logiciels
+Magasin d'accessoires informatiques
 TrustScore 4,7
 
 WebStrator.com
@@ -994,14 +994,14 @@ Bellevigny, France
 Entreprise d'automatisme
 TrustScore 4,7
 
-FaxBox
-www.faxbox.com
+Kanoon
+kanoon.fr
 Pas d'adresse
 Entreprise de logiciels
 TrustScore 4,7
 
-Kanoon
-kanoon.fr
+FaxBox
+www.faxbox.com
 Pas d'adresse
 Entreprise de logiciels
 TrustScore 4,7
@@ -1060,16 +1060,16 @@ LYON, France
 Service de recrutement
 TrustScore 4,7
 
-SQUIRREL
-www.squirrel.fr
-La Possession, France
-Entreprise de logiciels
-TrustScore 4,7
-
 Myproxies
 myproxies.fr
 Sospel, France
 Service VPN
+TrustScore 4,7
+
+SQUIRREL
+www.squirrel.fr
+La Possession, France
+Entreprise de logiciels
 TrustScore 4,7
 
 Greenway
@@ -1171,7 +1171,7 @@ TrustScore 4,6
 Axial-Host
 axial-host.fr
 Pas d'adresse
-Entrepreneur spécialisé dans les télécommunications
+Service de cloud computing
 TrustScore 4,6
 
 NetHeberg
@@ -1216,21 +1216,9 @@ Paris, France
 Cabinet d'expertise comptable
 TrustScore 4,6
 
-MagicPost
-magicpost.in
-Pas d'adresse
-Entreprise de logiciels
-TrustScore 4,6
-
 Kumullus
 kumullus.com
 Paris, France
-Entreprise de logiciels
-TrustScore 4,6
-
-Movali.ai
-subventions.ai
-Nice, France
 Entreprise de logiciels
 TrustScore 4,6
 
@@ -1238,6 +1226,12 @@ Host Heberg
 host-heberg.com
 Pas d'adresse
 Service VPN
+TrustScore 4,6
+
+Movali.ai
+subventions.ai
+Nice, France
+Entreprise de logiciels
 TrustScore 4,6
 
 m-work
@@ -1264,6 +1258,12 @@ Lyon, France
 Service de crypto-monnaie
 TrustScore 4,6
 
+HebergPlus
+heberg-plus.fr
+SAINT-BONNET-DE-MURE, France
+Service d'hébergement de sites web
+TrustScore 4,6
+
 Ma Gestion Cloud
 ma-gestion-cloud.fr
 Pas d'adresse
@@ -1276,22 +1276,16 @@ Saint-Quentin, France
 Service d'hébergement de sites web
 TrustScore 4,6
 
-HebergPlus
-heberg-plus.fr
-SAINT-BONNET-DE-MURE, France
-Service d'hébergement de sites web
+UmboFrance
+umbo-france.eu
+Nouans, France
+Serveur de traitement
 TrustScore 4,6
 
 Sinao - Le logiciel de comptabilité le plus simple
 www.sinao.fr
 Grenoble, France
 Entreprise de logiciels
-TrustScore 4,6
-
-UmboFrance
-umbo-france.eu
-Nouans, France
-Serveur de traitement
 TrustScore 4,6
 
 Make me Droid
@@ -1306,16 +1300,16 @@ Vélizy-Villacoublay, France
 Service d'hébergement de sites web
 TrustScore 4,6
 
-Smappen
-smappen.fr
-Toulouse, France
-Entreprise de logiciels
-TrustScore 4,6
-
 PrimSchool
 primschool.com
 Précy-sur-Marne, France
 École maternelle
+TrustScore 4,6
+
+Smappen
+smappen.fr
+Toulouse, France
+Entreprise de logiciels
 TrustScore 4,6
 
 Flowsign
@@ -1336,16 +1330,10 @@ Saint-Mandé, France
 Entreprise de logiciels
 TrustScore 4,6
 
-Sublimeo
-sublimeo.com
-Toulouse, France
-Graphiste
-TrustScore 4,6
-
-Hydra-Shield
-hydra-shield.fr
-Val d'oight, France
-Service de sécurité informatique
+Nicoka
+nicoka.com
+Paris, France
+Consultant en ressources humaines
 TrustScore 4,6
 
 osteopathes.pro
@@ -1354,22 +1342,28 @@ Paris, France
 Services aux entreprises
 TrustScore 4,6
 
-Nicoka
-nicoka.com
-Paris, France
-Consultant en ressources humaines
+Hydra-Shield
+hydra-shield.fr
+Val d'oight, France
+Service de sécurité informatique
 TrustScore 4,6
 
-Poool - The Membership & Subscription Suite
-poool.tech
-Paris, France
-Fournisseur de logiciels
+Sublimeo
+sublimeo.com
+Toulouse, France
+Graphiste
 TrustScore 4,6
 
 VISIO CONSEILS PRO
 visioconseilspro.com
 PLAN DE CUQUES, France
 Cabinet d'expertise comptable
+TrustScore 4,6
+
+Poool - The Membership & Subscription Suite
+poool.tech
+Paris, France
+Fournisseur de logiciels
 TrustScore 4,6
 
 m19
@@ -1402,16 +1396,16 @@ Paris, France
 Entreprise de logiciels
 TrustScore 4,6
 
-Riviosa
-riviosa.com
-Pas d'adresse
-Entreprise de logiciels
-TrustScore 4,6
-
 HOM STUDIO
 homstudio.fr
 Pas d'adresse
 Studio Pilates
+TrustScore 4,6
+
+Riviosa
+riviosa.com
+Pas d'adresse
+Entreprise de logiciels
 TrustScore 4,6
 
 Noö Family
@@ -1420,34 +1414,46 @@ PARIS, France
 Plateforme de collaboration en ligne
 TrustScore 4,6
 
-Le Studio de Maks / Agence de communication
-lestudiodemaks.com
-Goncelin, France
-Agence de communication
-TrustScore 4,6
-
 OffPix Communication
 www.offpix.com
 Quimper, France
 Concepteur de sites web
 TrustScore 4,6
 
+MassiveHoster
+massivehoster.com
+Pas d'adresse
+Service d'hébergement de sites web
+TrustScore 4,6
+
+Le Studio de Maks / Agence de communication
+lestudiodemaks.com
+Goncelin, France
+Agence de communication
+TrustScore 4,6
+
 LWS
 www.lws.fr
 PARIS, France
-Service d'hébergement de sites web
+Services aux entreprises
 TrustScore 4,5
 
 waalaxy.com
 waalaxy.com
 Pas d'adresse
-Service de développement des affaires
+Entreprise de logiciels
 TrustScore 4,5
 
 Ideel
 ideel.io
 Paris, France
 Plateforme de collaboration en ligne
+TrustScore 4,5
+
+Blog4ever
+blog4ever.com
+Soumont Saint Quentin, France
+Entreprise de logiciels
 TrustScore 4,5
 
 Eurécia
@@ -1486,6 +1492,12 @@ Pas d'adresse
 Service de rédaction de CV
 TrustScore 4,5
 
+ProPR Consulting
+proprconsulting.com
+Pas d'adresse
+Entreprise de logiciels
+TrustScore 4,5
+
 sternclient.biz
 sternclient.biz
 Pas d'adresse
@@ -1522,12 +1534,6 @@ VALENCE, France
 Entreprise de logiciels
 TrustScore 4,5
 
-Onoff Business
-onoffbusiness.com
-Paris, France
-Services aux entreprises
-TrustScore 4,5
-
 SERP Empire
 www.serpempire.com
 Pas d'adresse
@@ -1538,6 +1544,12 @@ Databox
 databox.fr
 Sargé Les Le Mans, France
 Fournisseur d'accès Internet
+TrustScore 4,5
+
+MagicPost
+magicpost.in
+Pas d'adresse
+Entreprise de logiciels
 TrustScore 4,5
 
 Verifsites
@@ -1606,6 +1618,12 @@ Paris, France
 École de conduite
 TrustScore 4,5
 
+Ekklo
+ekklo.com
+Paris, France
+Fournisseur de logiciels
+TrustScore 4,5
+
 NextGen-Heberg powered by SamiezTech
 nextgen-heberg.fr
 Plomelin, France
@@ -1642,16 +1660,16 @@ Paris, France
 Service de commande de repas en ligne
 TrustScore 4,5
 
-BeeTrip
-beetrip.pro
-Lyon, France
-Fournisseur de CRM
-TrustScore 4,5
-
 FiveHost
 five-host.fr
 Pas d'adresse
 Service d'hébergement de sites web
+TrustScore 4,5
+
+BeeTrip
+beetrip.pro
+Lyon, France
+Fournisseur de CRM
 TrustScore 4,5
 
 Rahona Hosting
@@ -1708,16 +1726,16 @@ Lanta, France
 Concepteur de sites web
 TrustScore 4,5
 
-Datwork
-datwork.fr
-Bordeaux, France
-Services aux entreprises
-TrustScore 4,5
-
 MONOPOL GROUP
 monopolgroup.com
 Pas d'adresse
 Société d'investissement
+TrustScore 4,5
+
+Datwork
+datwork.fr
+Bordeaux, France
+Services aux entreprises
 TrustScore 4,5
 
 Runbot
@@ -1738,12 +1756,6 @@ Lyon, France
 Entreprise de logiciels
 TrustScore 4,5
 
-MassiveHoster
-massivehoster.com
-Pas d'adresse
-Fournisseur de service de courriel
-TrustScore 4,5
-
 Techni - Heberg
 techni-heberg.fr
 Massy, France
@@ -1762,12 +1774,6 @@ CERGY, France
 Entreprise de logiciels
 TrustScore 4,5
 
-Copilhost
-copilhost.fr
-Paris, France
-Entreprise de logiciels
-TrustScore 4,5
-
 HaloAgency
 haloagency.fr
 Paris, France
@@ -1777,12 +1783,12 @@ TrustScore 4,5
 Brevo
 www.brevo.com
 Paris, France
-Agence de marketing en ligne
+Fournisseur de service de courriel
 TrustScore 4,4
 
-Blog4ever
-blog4ever.com
-Soumont Saint Quentin, France
+Expert PDF
+expert-pdf.com
+Courbevoie, France
 Entreprise de logiciels
 TrustScore 4,4
 
@@ -1828,16 +1834,16 @@ Montpellier, France
 Entreprise de logiciels
 TrustScore 4,4
 
+Onoff Business
+onoffbusiness.com
+Paris, France
+Services aux entreprises
+TrustScore 4,4
+
 Copyfy
 copyfy.io
 Pas d'adresse
 Service e-commerce
-TrustScore 4,4
-
-Neocamino
-neocamino.com
-LYON, France
-Consultant en marketing
 TrustScore 4,4
 
 FiveHosting
@@ -1900,18 +1906,6 @@ Suresnes, France
 Plateforme de collaboration en ligne
 TrustScore 4,4
 
-France Telephone
-france-telephone.com
-Fontenay sous Bois, France
-Opérateur de réseau mobile
-TrustScore 4,4
-
-Ekklo
-ekklo.com
-Paris, France
-Fournisseur de logiciels
-TrustScore 4,4
-
 MADeNight
 madenight.com
 Saint-Cyr-l'École, France
@@ -1948,16 +1942,22 @@ Bordeaux, France
 Service d'hébergement de sites web
 TrustScore 4,4
 
-YT Copycat
-ytcopycat.com
-Colomiers, France
-Entreprise de logiciels
+Smily (ex BookingSync)
+smily.com
+Pas d'adresse
+Service d'hébergement de sites web
 TrustScore 4,4
 
 HQWEB
 hqweb.com
 Paris, France
 Service d'hébergement de sites web
+TrustScore 4,4
+
+YT Copycat
+ytcopycat.com
+Colomiers, France
+Entreprise de logiciels
 TrustScore 4,4
 
 MoteurImmo
@@ -1984,28 +1984,10 @@ Pas d'adresse
 Entreprise de logiciels
 TrustScore 4,4
 
-Billabex
-www.billabex.com
-PARIS, France
-Entreprise de logiciels
-TrustScore 4,4
-
-Zelio Impact
-zelio-impact.com
-Pas d'adresse
-Entreprise de logiciels
-TrustScore 4,4
-
 JOUROFF
 jouroff.com
 LANNION, France
 Entreprise de logiciels
-TrustScore 4,4
-
-GarryServ
-garryserv.com
-Pas d'adresse
-Service d'hébergement de sites web
 TrustScore 4,4
 
 SaaS Production
@@ -2014,9 +1996,15 @@ Lunas, France
 Concepteur de sites web
 TrustScore 4,4
 
-Upnboost
-upnboost.com
-Pertuis, France
+GarryServ
+garryserv.com
+Pas d'adresse
+Service d'hébergement de sites web
+TrustScore 4,4
+
+Zelio Impact
+zelio-impact.com
+Pas d'adresse
 Entreprise de logiciels
 TrustScore 4,4
 
@@ -2026,10 +2014,22 @@ Paris, France
 Service d'hébergement de sites web
 TrustScore 4,4
 
-Smtping
-smtping.com
+Upnboost
+upnboost.com
+Pertuis, France
+Entreprise de logiciels
+TrustScore 4,4
+
+Copilhost
+copilhost.fr
 Paris, France
-Agence de marketing en ligne
+Entreprise de logiciels
+TrustScore 4,4
+
+Billabex
+www.billabex.com
+PARIS, France
+Recouvrement de dettes
 TrustScore 4,4
 
 MercuryCloud
@@ -2038,10 +2038,16 @@ Cesson-Sévigné, France
 Service de sécurité informatique
 TrustScore 4,4
 
-Obaine
-obaine.fr
-Lyon, France
-Espace Internet
+MercuryCloud
+mercurycloud.fr
+Cesson-Sévigné, France
+Service de sécurité informatique
+TrustScore 4,4
+
+Smtping
+smtping.com
+Paris, France
+Agence de marketing en ligne
 TrustScore 4,4
 
 allisone.ai
@@ -2074,21 +2080,27 @@ Amiens, France
 Fournisseur d'accès Internet
 TrustScore 4,4
 
+Veltume Hosting
+veltumehosting.com
+Saint-Denis, France
+Centre d'opérations du réseau
+TrustScore 4,4
+
 Homega
 homega.xyz
 Paris, France
 Société de gestion immobilière
 TrustScore 4,4
 
-CozyUp
-cozyup.fr
-Pas d'adresse
-Entreprise de logiciels
-TrustScore 4,4
-
 Notice
 notice.studio
 Paris, France
+Entreprise de logiciels
+TrustScore 4,4
+
+CozyUp
+cozyup.fr
+Pas d'adresse
 Entreprise de logiciels
 TrustScore 4,4
 
@@ -2098,16 +2110,16 @@ Le Havre, France
 Fournisseur de logiciels
 TrustScore 4,4
 
-Sportigo
-sportigo.fr
-Pas d'adresse
-Entreprise de logiciels
-TrustScore 4,4
-
 Nicolas Fornaro
 nicolas-fornaro.fr
 MARSEILLE, France
 Service de sécurité informatique
+TrustScore 4,4
+
+Sportigo
+sportigo.fr
+Pas d'adresse
+Entreprise de logiciels
 TrustScore 4,4
 
 MYM
@@ -2122,28 +2134,10 @@ Pas d'adresse
 Service internet et téléphone
 TrustScore 4,3
 
-Expert PDF
-expert-pdf.com
-Courbevoie, France
-Entreprise de logiciels
-TrustScore 4,3
-
 AMEN - Agence des MEdias Numériques
 amen.fr
 PARIS, France
 Fournisseur de DNS
-TrustScore 4,3
-
-Gueez.com
-www.gueez.com
-Pas d'adresse
-Service de coupons d'achat
-TrustScore 4,3
-
-Bring4you
-www.bring4you.com
-Pas d'adresse
-Entreprise de livraison
 TrustScore 4,3
 
 Destock Informatique
@@ -2155,19 +2149,13 @@ TrustScore 4,3
 Guitar Pro
 www.guitar-pro.com
 Pas d'adresse
-Magasin d'accessoires informatiques
+Entreprise de logiciels
 TrustScore 4,3
 
 OnetSolutions
 onetsolutions.net
 Pas d'adresse
 Espace Internet
-TrustScore 4,3
-
-ProPR Consulting
-proprconsulting.com
-Pas d'adresse
-Entreprise de logiciels
 TrustScore 4,3
 
 Atolia
@@ -2206,16 +2194,16 @@ Granville, France
 Service de marketing Internet
 TrustScore 4,3
 
-Row-Hosting
-row-hosting.fr
-Pas d'adresse
-Fournisseur de service de jeux
-TrustScore 4,3
-
 ROCKET-HOST.FR
 rocket-host.fr
 SEMOY, France
 Service d'hébergement de sites web
+TrustScore 4,3
+
+Neocamino
+neocamino.com
+LYON, France
+Service SEO
 TrustScore 4,3
 
 Freelance Stack
@@ -2254,16 +2242,16 @@ POUILLY, France
 Service informatique
 TrustScore 4,3
 
-SeaPerf
-seaperf.com
-Etaples, France
-Service d'hébergement de sites web
-TrustScore 4,3
-
 Limova.ai
 limova.ai
 Nice, France
 Entreprise de logiciels
+TrustScore 4,3
+
+SeaPerf
+seaperf.com
+Etaples, France
+Service d'hébergement de sites web
 TrustScore 4,3
 
 Myteslamate
@@ -2288,6 +2276,12 @@ ASTON AI
 astonai.com
 Nancy, France
 Entreprise de logiciels
+TrustScore 4,3
+
+France Telephone
+france-telephone.com
+Fontenay sous Bois, France
+Opérateur de réseau mobile
 TrustScore 4,3
 
 Kanta
@@ -2368,33 +2362,39 @@ Bordeaux, France
 Fournisseur de logiciels
 TrustScore 4,3
 
+Pilote Shopping
+piloteshopping.com
+Pas d'adresse
+Boutique de logiciels
+TrustScore 4,3
+
 Freshmarkom
 freshmarkom.fr
 Montreuil, France
 Designer web
 TrustScore 4,3
 
-mikiz.eu
-mikiz.eu
-Palaiseau, Paris, France
-Service de reproduction de clés
-TrustScore 4,3
-
-Casapulse
-casapulse.fr
-Paris, France
-Évaluateur immobilier
-TrustScore 4,3
-
-Karlia
-karlia.co
-TOULOUSE, France
-Fournisseur de logiciels
-TrustScore 4,3
-
 Hosturo
 hosturo.com
 Pas d'adresse
 Service d'hébergement de sites web
+TrustScore 4,3
+
+Supplyizi
+supplyizi.com
+Paris, France
+Plateforme de collaboration en ligne
+TrustScore 4,3
+
+Ordonnia
+ordonnia.com
+Pas d'adresse
+Entreprise de logiciels
+TrustScore 4,3
+
+mikiz.eu
+mikiz.eu
+Palaiseau, Paris, France
+Service de reproduction de clés
 TrustScore 4,3
 
